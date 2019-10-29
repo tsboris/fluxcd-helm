@@ -14,7 +14,7 @@ spec:
     path: charts/podinfo
     ref: master
   values:
-    image: boristsigelman/podinfo:dev-hdtwcel9
+    image: boristsigelman/podinfo:dev-sxjnhg8y
     replicaCount: 1
     hpa:
       enabled: false
